@@ -17,6 +17,8 @@ This repository contains a minimal implementation of **Physics-Informed Neural N
    - Solving the well-known Lane-Emden differential equation using PINNs.
 5. **ODE-NAS.ipynb**
    - Running a Neural Architecture Search (NAS) on PINNs for solving an ODE.
+6. **PDE-LBFGS.ipynb**
+   - Using Quasi-Newton LBFGS algorithm for faster convergence.
 
 ## Getting Started
 
