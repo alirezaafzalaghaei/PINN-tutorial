@@ -24,10 +24,10 @@ This repository contains a minimal implementation of **Physics-Informed Neural N
 
 ## Getting Started
 
-To run these notebooks, ensure you have Python and PyTorch installed. You can install the required packages using:
+To run these notebooks, ensure you have Python and PyTorch (preferably with CUDA support) installed. You can install the required packages using:
 
 ```bash
-pip install torch numpy matplotlib
+pip install -r requirements.txt
 ```
 Clone the repository:
 ```bash
@@ -42,7 +42,7 @@ Feel free to explore and modify the code to suit your needs.
 ## References
 For a deeper understanding of Physics-Informed Neural Networks and their applications, refer to the following resources:
 - [A tutorial on PINNs by Alireza Afzal Aghaei](https://slides.com/alirezaafzalaghaei/tensorflow)
-
+- [A neural network approach for solving nonlinear differential equations of Lane–Emden type](https://link.springer.com/article/10.1007/s00366-023-01836-5)
 -   [Physics-Informed Neural Networks: A Deep Learning Framework for Solving Forward and Inverse Problems Involving Nonlinear Partial Differential Equations](https://arxiv.org/abs/1711.10561)
 
 ## License
