@@ -15,6 +15,8 @@ This repository contains a minimal implementation of **Physics-Informed Neural N
    - Extends the application of PINNs to partial differential equations (PDEs).
 4. **LaneEmdenDifferentialEquation.ipynb**
    - Solving the well-known Lane-Emden differential equation using PINNs.
+5. **ODE-NAS.ipynb**
+   - Running a Neural Architecture Search (NAS) on PINNs for solving an ODE.
 
 ## Getting Started
 
