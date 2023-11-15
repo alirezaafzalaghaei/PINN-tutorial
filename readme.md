@@ -13,6 +13,8 @@ This repository contains a minimal implementation of **Physics-Informed Neural N
    - This notebook explores the data-driven discovery of solutions to ordinary differential equations (ODEs) using PINNs.
 3. **DataDrivenSolutionPDE.ipynb**
    - Extends the application of PINNs to partial differential equations (PDEs).
+4. **LaneEmdenDifferentialEquation.ipynb**
+   - Solving the well-known Lane-Emden differential equation using PINNs.
 
 ## Getting Started
 
