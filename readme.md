@@ -19,6 +19,8 @@ This repository contains a minimal implementation of **Physics-Informed Neural N
    - Running a Neural Architecture Search (NAS) on PINNs for solving an ODE.
 6. **PDE-LBFGS.ipynb**
    - Using Quasi-Newton LBFGS algorithm for faster convergence.
+7. **PDE-LBFGS-CUDA.ipynb**
+   - Add CUDA support to speedup the learning process.
 
 ## Getting Started
 
